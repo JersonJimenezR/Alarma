@@ -1,0 +1,29 @@
+.footer{
+
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+
+}
+
+.plano {
+
+  margin: 20px 0px 50px 230px;
+  width: 65%;
+
+}
+
+.plano > img {
+
+  width: 80%;
+
+}
+
+.links{
+
+    margin-left: 110px;
+}
