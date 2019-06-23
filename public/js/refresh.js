@@ -18,7 +18,7 @@ function refreshDatabase()
 
       if( response.status )
       {
-          document.location = 'http://localhost:8887/alarma/public/home/view/alert';
+          document.location = 'http://54.186.162.93/home/view/alert';
       }
 
     }

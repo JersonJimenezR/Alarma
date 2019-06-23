@@ -39,7 +39,7 @@
                     </tbody>
                   </table>
 
-                  <div class="links">                    
+                  <div class="links">
                       {{ $notifications->links() }}
                   </div>
 
